@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-cloud-vision
+sentence-transformers
+scikit-learn
+python-multipart
+PyMuPDF
+numpy
+google-generativeai
+pandas
