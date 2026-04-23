@@ -1,0 +1,12 @@
+pip uninstall -y protobuf tensorflow
+
+pip install "protobuf<6.0.0dev,>=5.26.1" tensorflow
+
+pip install --upgrade sentence-transformers
+
+pip uninstall google-generativeai
+
+pip install google-genai
+
+python -m venv venv
+venv\Scripts\activate
